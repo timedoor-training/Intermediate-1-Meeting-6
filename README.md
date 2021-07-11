@@ -8,6 +8,8 @@ dengan nilai yang spesifik
 ## Link
 >What is th internet?
 >>https://www.youtube.com/watch?v=Dxcc6ycZ73M&t=3s
+>How the internet works?
+>>https://www.youtube.com/watch?v=x3c1ih2NJEg
 
 Contoh aplikasi yang akan dibuat :
 >https://timedoor-temperature-converter.netlify.app/
