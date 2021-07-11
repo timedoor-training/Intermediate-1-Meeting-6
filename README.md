@@ -5,6 +5,10 @@ Pertemuan 6 mempelajari function parameter dan return statement, Terdapat dua je
 statement return tanpa pengembalian nilai dan statement return 
 dengan nilai yang spesifik
 
+## Link
+>What is th internet?
+>>https://www.youtube.com/watch?v=Dxcc6ycZ73M&t=3s
+
 Contoh aplikasi yang akan dibuat :
 >https://timedoor-temperature-converter.netlify.app/
 
